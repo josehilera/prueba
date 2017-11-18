@@ -1,18 +1,18 @@
 ## Rule
 
- Property     | Type
-|--------------|---------
-| rule_id    | Text
-| name        | Text
-| test_mode    | [TestModeType](#TestModeType)
-| environment | [EnvironmentType](#EnvironmentType)
-| success_criterion | SuccessCriterion 
-| authors | [Person[]](#Person) or Text
-| description | Text
-| background | [BgReference]
-| assumptions | [Assumption]
-| test_procedure | TestProcedure 
-| outcome | Outcome 
+ Property     | Type | Description
+|--------------|---------|------
+| rule_id    | Text |
+| name        | Text |
+| test_mode    | [TestModeType](#TestModeType) |
+| environment | [EnvironmentType](#EnvironmentType) |
+| success_criterion | SuccessCriterion |
+| authors | [Person[]](#Person) or Text |
+| description | Text |
+| background | [BgReference] |
+| assumptions | [Assumption] |
+| test_procedure | TestProcedure |
+| outcome | Outcome |
 
 ### TestModeType 
 
