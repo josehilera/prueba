@@ -1,4 +1,4 @@
-## Rule
+## <a name="Rule"></a>Rule
 
  Property     | Type | Description
 |--------------|---------|------
@@ -14,7 +14,7 @@
 | test_procedure | TestProcedure |
 | outcome | Outcome |
 
-### TestModeType 
+### <a name="TestModeType"></a>TestModeType 
 
 Value     | Description
 |--------------|---------
@@ -22,7 +22,7 @@ Value     | Description
 | Semi-automatic        | 
 | Manual | 
 
-### EnvironmentType 
+### <a name="EnvironmentType"></a>EnvironmentType 
 
 Value     | Description
 |--------------|---------
